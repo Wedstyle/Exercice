@@ -70,3 +70,36 @@ h1{
 
 
 
+
+
+
+@media screen and (min-width : 1280px ){
+    .img_intro{
+        display: block;
+        margin: auto;
+        width: 40%;
+        height: 650px;   
+    }
+}
+
+@media screen and (min-width : 1280px ){
+    .img-event{
+        width: 70%;
+        height: 650px;
+        display: block;
+        margin: auto;
+    }
+}
+
+@media screen and (min-width : 930px ){
+    .card-deck{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        gap: 20px;
+        padding: 15px;
+    }
+}
+
+
+
