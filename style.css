@@ -57,10 +57,10 @@ h1{
     margin: auto;
 }
 
-.defiler-chien{
-    width: 70%;
+.card{
+    width: 60%;
     display: block;
     margin: auto;
-    padding-bottom: 10px;
+    margin-bottom: 15px;
 }
 
