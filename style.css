@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+main{
+    text-align: justify;
+    padding: 8px;
+}
+
+.img_intro{
+    display: block;
+    margin: auto;
+    width: 80%;
+    height: 650px;   
+}
+
+p,li{
+    text-align: justify;
+    padding: 8px;
+}
+h2{
+    font-size: 2em;
+}
+
+strong{
+    font-weight: bold;
+    font-style: italic;
+}
+.name_footer{
+    background: black;
+    text-align: center;
+    color: white;
+}
